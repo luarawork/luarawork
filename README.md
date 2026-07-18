@@ -39,7 +39,7 @@ I turn complexity into scalable solutions that work for users and deliver result
 
 [![Learning](https://skillicons.dev/icons?i=aws,py,androidstudio)](https://skillicons.dev)
 
-Product Management · AI-assisted design workflows · Design Systems · Friends of Figma Natal 🐾
+Product Management · AI-assisted design workflows · Design Systems
 
 ---
 
