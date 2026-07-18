@@ -8,27 +8,38 @@
 
 ### 👩‍💻 About me
 
-I'm a **UX/UI & Service Designer** and **Business Analyst** based in Brazil 🇧🇷, currently relocating to São Paulo.
+I'm a **multidisciplinary professional** based in Brazil 🇧🇷, currently relocating to São Paulo — working at the intersection of people, processes, and technology.
 
-I work at the intersection of design thinking, process intelligence, and technology — translating complex systems into human-centered experiences. I've shipped work across telecom, energy, SaaS, and most recently, civic tech.
+I turn complexity into scalable solutions that work for users and deliver results for the business. My background spans **energy, healthtech, SaaS, and mobility**, with a perspective that moves fluidly from strategic to operational: structuring strategies, connecting teams, and making data-driven decisions with a consistent focus on experience, efficiency, and sustainable value delivery.
 
-In 2026 I built **[Felines](https://github.com/luarawork/felines)** — an educational platform for mapping stray cat colonies, built solo during Hack the Kitty hackathon in 13 days with Next.js 14, Supabase, and OpenStreetMap.
+**Some highlights:**
+- 📊 Redesigned a service portal and catalog, driving significant gains in user satisfaction
+- ⚡ Optimized onboarding processes to accelerate time-to-value for clients
+- 🎓 Built self-service learning tracks that reduced support demand
+- 🤝 End-to-end project governance with multicultural teams across Brazil, Spain, the US, and Scotland
 
-I'm also the founder of **[Louri](https://louri.com.br)**, a tech solutions company for SMBs, and a candidate chapter leader for **Friends of Figma Natal**.
+`Service Design` `Business Analysis` `UX/UI` `ITSM & ServiceNow` `Product Management` `CX & EX` `Data-Driven` `Stakeholder Management` `Change Management`
 
 ---
 
 ### 🛠️ Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,js,ts,nextjs,react,tailwind,supabase,postgres,github,vscode,html,css)](https://skillicons.dev)
+**Design & Research**
+[![Design Skills](https://skillicons.dev/icons?i=figma,ps,xd)](https://skillicons.dev)
+
+**Dev & Data**
+[![Dev Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,supabase,postgres,html,css)](https://skillicons.dev)
+
+**Productivity & Ops**
+[![Ops Skills](https://skillicons.dev/icons?i=notion,github,vscode,vercel)](https://skillicons.dev)
 
 ---
 
 ### 📚 Currently studying / building
 
-[![Learning](https://skillicons.dev/icons?i=aws,py,vercel)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,py,androidstudio)](https://skillicons.dev)
 
-Service Design · Product Management · AI-assisted workflows
+Product Management · AI-assisted design workflows · Design Systems · Friends of Figma Natal 🐾
 
 ---
 
