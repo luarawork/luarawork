@@ -33,19 +33,21 @@ Aqui ficam os produtos que eu construo: desenhados e desenvolvidos de ponta a po
 
 ## Stack
 
-**Design**<br>
+**Design**: Figma, FigJam, Miro<br>
 <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
 
-**Front-end**<br>
+**Front-end**: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS<br>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS">
 
-**Back-end e dados**<br>
+**Back-end e dados**: Node.js, Supabase (PostgreSQL), Python, SQL<br>
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,py" alt="Node.js, Supabase, PostgreSQL, Python">
 
-**Ferramentas**<br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,vscode" alt="Git, GitHub, GitHub Actions, Vercel, Netlify, VS Code">
+**Testes, versionamento e deploy**: Vitest, Git, GitHub Actions, Vercel, Netlify<br>
+<img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions,vercel,netlify" alt="Vitest, Git, GitHub, GitHub Actions, Vercel, Netlify">
 
-**IA**: Claude Code, Claude Design, Cursor, Codex
+**IA**: Claude Code, Claude Design, Cursor, Codex, engenharia de prompt, Spec-Driven Development
+
+**Produto e processos**: ServiceNow, Jira, Notion, BPMN
 
 ## Escrita
 
