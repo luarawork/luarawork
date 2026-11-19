@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Luara Oliveira</title>
-  <desc id="d">UX/UI and Product Designer, Design Engineer. From research to interface, and from interface to code.</desc>
+  <desc id="d">UX/UI e Product Designer, Design Engineer. Da pesquisa à interface, e da interface ao código.</desc>
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M48 0H0V48" fill="none" stroke="#a8c4d4" stroke-opacity=".05" stroke-width="1"/>
@@ -26,9 +26,9 @@
     </g>
     <rect width="1200" height="300" fill="url(#grid)"/>
     <text x="72" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#e8f0f5" letter-spacing="-1">Luara Oliveira</text>
-    <text x="74" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#a8c4d4">UX/UI &amp; Product Designer · Design Engineer</text>
+    <text x="74" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#a8c4d4">UX/UI e Product Designer · Design Engineer</text>
     <rect x="74" y="216" width="72" height="1.5" fill="url(#line)"/>
-    <text x="74" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#88a0b3">From research to interface, and from interface to code.</text>
+    <text x="74" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#88a0b3">Da pesquisa à interface, e da interface ao código.</text>
     <circle cx="1120" cy="240" r="8" fill="#c9a961"/>
   </g>
 </svg>

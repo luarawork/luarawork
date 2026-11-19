@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Luara Oliveira, UX/UI and Product Designer, Design Engineer" width="100%">
+  <img src="assets/header.svg" alt="Luara Oliveira, UX/UI e Product Designer, Design Engineer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://luara.work"><img src="https://img.shields.io/badge/Portfolio-luara.work-a8c4d4?style=flat-square&labelColor=0d1a2e" alt="Portfolio: luara.work"></a>
+  <a href="https://luara.work"><img src="https://img.shields.io/badge/Portf%C3%B3lio-luara.work-a8c4d4?style=flat-square&labelColor=0d1a2e" alt="Portfólio: luara.work"></a>
   <a href="https://linkedin.com/in/luarawork"><img src="https://img.shields.io/badge/LinkedIn-luarawork-a8c4d4?style=flat-square&labelColor=0d1a2e&logo=linkedin&logoColor=a8c4d4" alt="LinkedIn"></a>
   <a href="https://medium.com/@luarawork"><img src="https://img.shields.io/badge/Medium-@luarawork-a8c4d4?style=flat-square&labelColor=0d1a2e&logo=medium&logoColor=a8c4d4" alt="Medium"></a>
   <a href="https://substack.com/@luarawork"><img src="https://img.shields.io/badge/Substack-@luarawork-a8c4d4?style=flat-square&labelColor=0d1a2e&logo=substack&logoColor=a8c4d4" alt="Substack"></a>
@@ -12,24 +12,24 @@
 
 <br>
 
-I design digital products from research to interface, and I build them with AI. For more than five years I've been shaping experiences for customers, users and teams, connecting user research, product decisions and the systems behind them.
+Desenho produtos digitais da pesquisa à interface e os construo com IA. Há mais de cinco anos crio experiências para clientes, usuários e equipes, conectando pesquisa com usuários, decisões de produto e os sistemas por trás delas.
 
-This is where I keep what I build: products designed and coded end to end with **Spec-Driven Development**.
+Aqui ficam os produtos que eu construo: desenhados e desenvolvidos de ponta a ponta com **Spec-Driven Development**.
 
-## Selected work
+## Projetos em destaque
 
-| Project | What it is | Stack |
+| Projeto | O que é | Stack |
 | :-- | :-- | :-- |
-| **[Chuvarada](https://github.com/luarawork/chuvarada)**<br><sub>[live](https://chuvarada.vercel.app) · open source</sub> | Real-time flood-risk map for 28,483 Brazilian neighborhoods across all 5,570 municipalities, built on public data from INPE, ANA, NASA and IBGE. 89% accuracy in national validation. | Next.js, TypeScript, Supabase, Tailwind, Vitest, GitHub Actions, Vercel |
-| **[Felines](https://github.com/luarawork/felines)**<br><sub>Hack the Kitty 2026</sub> | Platform that maps street-cat colonies and turns ordinary citizens into caretakers. Built solo in 14 days: **27th of 417**, top marks in Security and Theme Relevance, WCAG 2.2, full PT/EN i18n. | Next.js, TypeScript, Tailwind, Supabase, Leaflet, Netlify |
-| **[luara.work](https://github.com/luarawork/portfolio)**<br><sub>[live](https://luara.work)</sub> | My trilingual portfolio. No framework and no build step, WCAG 2.1 AA, structured data for search. | HTML, CSS, JavaScript |
+| **[Chuvarada](https://github.com/luarawork/chuvarada)**<br><sub>[no ar](https://chuvarada.vercel.app) · código aberto</sub> | Mapa de risco de alagamento em tempo real para 28.483 bairros brasileiros, nos 5.570 municípios do país, com dados públicos do INPE, da ANA, da NASA e do IBGE. 89% de acurácia na validação nacional. | Next.js, TypeScript, Supabase, Tailwind, Vitest, GitHub Actions, Vercel |
+| **[Felines](https://github.com/luarawork/felines)**<br><sub>Hack the Kitty 2026</sub> | Plataforma que mapeia colônias de gatos em situação de rua e transforma cidadãos comuns em guardiões. Construída sozinha em 14 dias: **27º lugar entre 417**, nota máxima em Segurança e Relevância ao Tema, WCAG 2.2 e versão completa em português e inglês. | Next.js, TypeScript, Tailwind, Supabase, Leaflet, Netlify |
+| **[luara.work](https://github.com/luarawork/portfolio)**<br><sub>[no ar](https://luara.work)</sub> | Meu portfólio em três línguas. Sem framework e sem etapa de build, acessível (WCAG 2.1 AA) e com dados estruturados para busca. | HTML, CSS, JavaScript |
 
-## How I build
+## Como eu construo
 
-- **Spec first.** Problem, scope, architecture decisions and acceptance criteria are written before any code, so every delivery can be checked against them.
-- **AI builds, I own the decisions.** Claude Code does the heavy lifting; what to build, for whom and why stays a design and product call.
-- **Quality is a requirement, not a phase.** Automated tests and CI, accessibility checks, and security from day one: secrets out of the code, rate limiting on public routes, and audits before launch.
-- **Design and code in the same loop.** Loading, empty and error states are designed up front, not discovered in production.
+- **Especificação primeiro.** Problema, escopo, decisões de arquitetura e critérios de aceite são escritos antes de qualquer código, para que cada entrega possa ser conferida.
+- **A IA constrói, as decisões são minhas.** O Claude Code faz o trabalho pesado; o que construir, para quem e por quê continua sendo decisão de design e de produto.
+- **Qualidade é requisito, não etapa.** Testes automatizados e integração contínua, acessibilidade e segurança desde o início: nenhuma chave no código, limite de requisições nas rotas públicas e auditoria antes de publicar.
+- **Design e código no mesmo ciclo.** Os estados de carregamento, vazio e erro são desenhados antes, e não descobertos em produção.
 
 ## Stack
 
@@ -39,18 +39,18 @@ This is where I keep what I build: products designed and coded end to end with *
 **Front-end**<br>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS">
 
-**Back-end and data**<br>
+**Back-end e dados**<br>
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,py" alt="Node.js, Supabase, PostgreSQL, Python">
 
-**Tooling**<br>
+**Ferramentas**<br>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify,vscode" alt="Git, GitHub, GitHub Actions, Vercel, Netlify, VS Code">
 
-**AI**: Claude Code, Claude Design, Cursor, Codex
+**IA**: Claude Code, Claude Design, Cursor, Codex
 
-## Writing
+## Escrita
 
-I write about UX, product and building with AI, in English on [Medium](https://medium.com/@luarawork) and in Portuguese on [Substack](https://substack.com/@luarawork).
+Escrevo sobre UX, produto e desenvolvimento com IA, em português no [Substack](https://substack.com/@luarawork) e em inglês no [Medium](https://medium.com/@luarawork).
 
 <br>
 
-<p align="center"><sub>Designed and written by me. The header is a hand-made SVG.</sub></p>
+<p align="center"><sub>Desenhado e escrito por mim. O topo é um SVG feito à mão.</sub></p>
