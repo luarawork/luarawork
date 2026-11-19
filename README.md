@@ -34,7 +34,9 @@ Aqui ficam os produtos que eu construo: desenhados e desenvolvidos de ponta a po
 ## Stack
 
 **Design**: Figma, FigJam, Miro<br>
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma">
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma"><br>
+<img src="https://img.shields.io/badge/FigJam-1a2f4a?style=flat-square&logo=figma&logoColor=e8f0f5" alt="FigJam">
+<img src="https://img.shields.io/badge/Miro-1a2f4a?style=flat-square&logo=miro&logoColor=FFD02F" alt="Miro">
 
 **Front-end**: TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS<br>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS">
@@ -45,9 +47,19 @@ Aqui ficam os produtos que eu construo: desenhados e desenvolvidos de ponta a po
 **Testes, versionamento e deploy**: Vitest, Git, GitHub Actions, Vercel, Netlify<br>
 <img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions,vercel,netlify" alt="Vitest, Git, GitHub, GitHub Actions, Vercel, Netlify">
 
-**IA**: Claude Code, Claude Design, Cursor, Codex, engenharia de prompt, Spec-Driven Development
+**IA**: Claude Code, Claude Design, Cursor, Codex, engenharia de prompt, Spec-Driven Development<br>
+<img src="https://img.shields.io/badge/Claude%20Code-1a2f4a?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code">
+<img src="https://img.shields.io/badge/Claude%20Design-1a2f4a?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Design">
+<img src="https://img.shields.io/badge/Cursor-1a2f4a?style=flat-square&logo=cursor&logoColor=e8f0f5" alt="Cursor">
+<img src="https://img.shields.io/badge/Codex-1a2f4a?style=flat-square&logo=openai&logoColor=e8f0f5" alt="Codex">
+<img src="https://img.shields.io/badge/Engenharia%20de%20prompt-1a2f4a?style=flat-square" alt="Engenharia de prompt">
+<img src="https://img.shields.io/badge/Spec--Driven%20Development-1a2f4a?style=flat-square" alt="Spec-Driven Development">
 
-**Produto e processos**: ServiceNow, Jira, Notion, BPMN
+**Produto e processos**: ServiceNow, Jira, Notion, BPMN<br>
+<img src="https://img.shields.io/badge/ServiceNow-1a2f4a?style=flat-square&logo=servicenow&logoColor=62D84E" alt="ServiceNow">
+<img src="https://img.shields.io/badge/Jira-1a2f4a?style=flat-square&logo=jira&logoColor=2684FF" alt="Jira">
+<img src="https://img.shields.io/badge/Notion-1a2f4a?style=flat-square&logo=notion&logoColor=e8f0f5" alt="Notion">
+<img src="https://img.shields.io/badge/BPMN-1a2f4a?style=flat-square" alt="BPMN">
 
 ## Escrita
 
