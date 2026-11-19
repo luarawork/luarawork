@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Luara Oliveira, UX/UI e Product Designer, Design Engineer" width="100%">
+  <img src="assets/topo.svg" alt="Luara Oliveira, UX/UI e Product Designer, Design Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -67,4 +67,4 @@ Escrevo sobre UX, produto e desenvolvimento com IA, em português no [Substack](
 
 <br>
 
-<p align="center"><sub>Desenhado e escrito por mim. O topo é um SVG feito à mão.</sub></p>
+<p align="center"><sub>Desenhado e escrito por mim.</sub></p>
