@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Luara Oliveira</title>
+  <desc id="d">UX/UI e Product Designer, Design Engineer. Da pesquisa à interface, e da interface ao código.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#a8c4d4" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+    <clipPath id="card"><rect width="1200" height="300" rx="14"/></clipPath>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#5a8fa8"/><stop offset="1" stop-color="#5a8fa8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#0d1a2e"/>
+    <g filter="url(#blur)">
+      <ellipse cx="230" cy="140" rx="260" ry="150" fill="#5a8fa8" fill-opacity=".38">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 40 -18; -20 14; 0 0" dur="18s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="980" cy="70" rx="200" ry="120" fill="#c9a961" fill-opacity=".16">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -30 20; 16 -10; 0 0" dur="22s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="760" cy="300" rx="240" ry="120" fill="#4db8a8" fill-opacity=".16">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 26 -16; -24 8; 0 0" dur="20s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <text x="72" y="138" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#e8f0f5" letter-spacing="-1">Luara Oliveira</text>
+    <text x="74" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic" fill="#a8c4d4">UX/UI e Product Designer · Design Engineer</text>
+    <rect x="74" y="216" width="72" height="1.5" fill="url(#line)"/>
+    <text x="74" y="252" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#88a0b3">Da pesquisa à interface, e da interface ao código.</text>
+    <circle cx="1120" cy="240" r="8" fill="#c9a961"/>
+  </g>
+</svg>
